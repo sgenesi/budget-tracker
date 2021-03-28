@@ -25,26 +25,9 @@ This is a PWA that allows the user to track their money by adding expenses and d
 
 ## Images
 
-### Desktop View
+### Online View
 
-1440px X 1112px
+### Offline View
 
-![Image of desktop view](./assets/images/DesktopView.png)
+### Back Online View
 
-![Second image of desktop view](./assets/images/DesktopView2.png)
-
-### iPad View
-
-768px X 1024px
-
-![Image of iPad view](./assets/images/iPadView.png)
-
-![Second image of iPad view](./assets/images/iPadView2.png)
-
-### iPhone 6 View
-
-375px X 667px
-
-![Image of iPhone 6 view](./assets/images/iPhone6View.png)
-
-![Second image of iPhone 6 view](./assets/images/iPhone6View2.png)
