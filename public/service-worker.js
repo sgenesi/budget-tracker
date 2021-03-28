@@ -15,7 +15,7 @@ const FILES_TO_CACHE = [
     "/icons/icon-512x512.png"
 ];
 
-const CACHE_NAME = "budget-cache-v2";
+const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
 self.addEventListener('install', function (e) {
