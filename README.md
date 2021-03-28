@@ -19,8 +19,8 @@ This is a PWA that allows the user to track their money by adding expenses and d
 ---
 
 ## Links
-* Walk Through Video: https://screencast-o-matic.com/watch/crerqfVV1Hi
-* GitHub Repo: https://github.com/sgenesi/social-network-API 
+* Walk Through Video: 
+* GitHub Repo: 
 ---
 
 ## Images
